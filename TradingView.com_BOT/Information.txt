@@ -1,1 +1,4 @@
+##### It requires LOGIN details and TICKER Symbol needs to be searhced.
+
+##### The trading view bots does the follwing steps in order. 
 
